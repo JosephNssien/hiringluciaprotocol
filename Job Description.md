@@ -41,14 +41,8 @@ Job Types: Full-time, Contract
 
 Pay: $120,000.00 - $165,000.00 per year
 
-Compensation Package:
 
-
-Employee stock purchase plan
-Performance bonus
-Quarterly bonus
-Application Question(s):
-
+Apply to: joseph@luciaprotocol.com
 
 Please review the terms outlined in the "Before Applying" section of the job posting.
 Experience:
@@ -64,3 +58,5 @@ TypeScript: 2 years (Preferred)
 Dart: 2 years (Preferred)
 Blockchain: 2 years (Preferred)
 Work Location: Remote
+
+Project Website: https://luciaprotocol.com/
